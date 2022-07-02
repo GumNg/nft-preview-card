@@ -28,10 +28,13 @@ Users should be able to:
 
 ### What I learned
 
+- Setting up a card using bootstrap
+- Seperating card elements within a card with bootstrap
 
 
 ### Useful resources
 
+- [Bootstrap Cards](https://getbootstrap.com/docs/5.2/components/card/#sizing)
 
 ## Author
 
