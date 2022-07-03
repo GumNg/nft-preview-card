@@ -30,6 +30,14 @@ p {
 
 /* footer */
 
+.avatar {
+    border: 1px white solid;
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+    width: 15%;
+}
+
 .creator {
     color: hsl(0, 0%, 100%);;
 }
