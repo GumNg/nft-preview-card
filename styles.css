@@ -27,3 +27,9 @@ p {
     color: hsl(178, 100%, 50%);
     text-decoration: none;
 }
+
+/* footer */
+
+.creator {
+    color: hsl(0, 0%, 100%);;
+}
