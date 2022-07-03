@@ -19,6 +19,7 @@ p {
 /* card container */
 .card {
     background-color: hsl(216, 50%, 16%);
+    padding: 2%;
 }
 
 /* price and duration */
