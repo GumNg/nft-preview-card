@@ -16,6 +16,7 @@ p {
     font-weight: 300;
 }
 
+/* card container */
 .card {
     background-color: hsl(216, 50%, 16%);
 }
