@@ -20,3 +20,10 @@ p {
 .card {
     background-color: hsl(216, 50%, 16%);
 }
+
+/* price and duration */
+
+.price {
+    color: hsl(178, 100%, 50%);
+    text-decoration: none;
+}
